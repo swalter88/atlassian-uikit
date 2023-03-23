@@ -1,3 +1,9 @@
+# OS files
+.DS_Store
+
+# application configs
+.idea
+
 # Logs
 logs
 *.log
@@ -80,7 +86,6 @@ typings/
 
 # Nuxt.js build / generate output
 .nuxt
-dist
 
 # Gatsby files
 .cache/
